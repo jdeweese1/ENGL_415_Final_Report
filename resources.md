@@ -9,3 +9,7 @@ The items listed here are not necessarily used in my report, they are just a lis
 - https://www.freecodecamp.org/learn/
 - https://github.com/plotly/dash
 - https://github.com/fasouto/awesome-dataviz#python-tools
+- matplotlib
+- scipy
+- pandas
+- numpy
