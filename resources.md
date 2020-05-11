@@ -8,8 +8,14 @@ The items listed here are not necessarily used in my report, they are just a lis
 ## Others
 - https://www.freecodecamp.org/learn/
 - https://github.com/plotly/dash
-- https://github.com/fasouto/awesome-dataviz#python-tools
 - matplotlib
 - scipy
 - pandas
 - numpy
+
+## Viz theory
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4008059/
+
+## Awesome lists
+- https://github.com/academic/awesome-datascience
+- https://github.com/fasouto/awesome-dataviz#python-tools
