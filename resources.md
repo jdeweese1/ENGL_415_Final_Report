@@ -19,3 +19,6 @@ The items listed here are not necessarily used in my report, they are just a lis
 ## Awesome lists
 - https://github.com/academic/awesome-datascience
 - https://github.com/fasouto/awesome-dataviz#python-tools
+
+## Other resources I found useful for this report
+- https://towardsdatascience.com/matplotlib-vs-seaborn-vs-plotly-f2b79f5bddb
