@@ -22,3 +22,4 @@ The items listed here are not necessarily used in my report, they are just a lis
 
 ## Other resources I found useful for this report
 - https://towardsdatascience.com/matplotlib-vs-seaborn-vs-plotly-f2b79f5bddb
+- https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
